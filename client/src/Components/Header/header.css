@@ -1,0 +1,22 @@
+.header{
+    margin-top: 25px;
+   
+}
+.header_button{
+    margin-left: 80%;
+}
+.inscription{
+    margin-right:10px;
+
+}
+
+.recherche{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: start;
+    padding:0px 20px 15px 100px
+}
+.champsRechercher{
+    margin-left: 15%
+}

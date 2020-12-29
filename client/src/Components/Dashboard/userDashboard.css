@@ -1,0 +1,46 @@
+.postHeadDesc{
+    display:flex;
+    flex-direction: row;
+    margin-left:0;
+}
+.imageDescription{
+    width:40%;
+    height:40%
+   
+}
+.listUserDescription{
+    width:40%;
+
+}
+.userDescription{
+    border:double 2px #28a745;
+    margin-left:20%;
+    margin-top: 50px; 
+}
+.userTitle{
+    font-size: 1.2rem;
+font-weight: bold;
+font-style: italic;
+color: #f60002;
+
+}
+.creationAnnonce{
+    
+ width: 50%;  
+  margin-top: -33%;
+margin-left: 45%;
+    
+}
+.listPostAdmin{
+    width:45%;
+    margin-left:50%;
+    margin-top: -20%;
+    border:double 2px #28a745;
+}
+.titreListAdmin{
+    color:#f60002;
+    text-align:center;
+     font-weight:bold;
+      font-size:1.5rem;
+      font-style:italic
+}

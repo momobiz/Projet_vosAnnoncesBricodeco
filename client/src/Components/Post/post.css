@@ -1,0 +1,23 @@
+.post{
+    border: #5eaa14 double 6px;
+    border-radius: 15px;
+    background-color:#5eaa14;
+    margin:20px;
+}
+.carteTitre {
+    color:white;
+    text-align: center;
+    
+}
+.carteTexte{
+    color:white;
+    display:flex;
+    justify-content: space-around;
+    padding-top:10px;
+}
+.professionnel{
+    color:#f60002;
+    font-weight:bold; 
+    
+    font-style:italic;
+}

@@ -1,0 +1,24 @@
+.postHeadDesc{
+    display:flex;
+    flex-direction: row;
+}
+.imageDescription{
+    width:50%;
+   
+}
+.listDescription{
+    width:40%;
+
+}
+.postDescription{
+    border:double 2px #28a745;
+    margin-left:20%;
+    margin-top: 50px; 
+}
+.titleDesc{
+    font-size: 1.2rem;
+font-weight: bold;
+font-style: italic;
+color: #f60002;
+
+}

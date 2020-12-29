@@ -1,0 +1,4 @@
+{
+    "MERNAPP_URL":"'mongodb://localhost:27017/mernapp1", 
+    "SECRET":"mysecretkey"
+}

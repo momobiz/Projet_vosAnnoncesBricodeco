@@ -1,0 +1,33 @@
+
+.menu Button{
+    height: 40px;
+    margin-right:15px
+}
+.menu{
+    align-items: center;
+    margin-left:15%
+    
+}
+.sousMenu{
+    background-color: #28a745;
+
+
+}
+
+.menuItem1{
+    color: white;
+text-decoration: none;
+}
+.menuIem1:hover {
+	color: red;
+	
+}
+.dropdown-item.active{
+    background-color: #5eaa14;
+}
+.dropdown-item:active {
+
+	background-color: #28a745;
+}
+
+ 

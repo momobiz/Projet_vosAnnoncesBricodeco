@@ -1,0 +1,7 @@
+.postsContainer{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin:80px 70px;
+
+}
